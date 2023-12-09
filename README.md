@@ -4,7 +4,7 @@ Dr. Lozinski; TA Dominique Stumbaugh\
 AOS C111/C204: Introduction to Machine Learning for Physical Sciences\
 December 8, 2023
 
-Read/download report pdf [here](/assets/Nguyen_Lakota_FinalProject.pdf).\
+Read/download report pdf [here](/assets/Nguyen_Lakota_FinalReport.pdf).\
 Read/download code [here](/assets/Nguyen_Lakota_AOSC111_C204_FinalProject_Climate_Simulation_Failures.ipynb).
 
 * To get data for your project, you could:
