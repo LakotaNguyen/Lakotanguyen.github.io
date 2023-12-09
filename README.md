@@ -1,11 +1,11 @@
-**Predicting Climate Model Outcomes Using Logistic Regression and Support Vector Machines**\
-Lakota Nguen
-Dr. Lozinski; TA Dominique Stumbaugh
-AOS C111/C204: Introduction to Machine Learning for Physical Sciences
+### **Predicting Climate Model Outcomes Using Logistic Regression and Support Vector Machines**<img align="right" width="220" height="220" src="/assets/IMG/template_logo.png"> 
+Lakota Nguyen\
+Dr. Lozinski; TA Dominique Stumbaugh\
+AOS C111/C204: Introduction to Machine Learning for Physical Sciences\
 December 8, 2023
-Hi class, welcome to the AOS C111/204 final project!** <img align="right" width="220" height="220" src="/assets/IMG/template_logo.png">
 
-For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
+Read/download report pdf [here](/assets/Nguyen_Lakota_FinalProject.pdf).\
+Read/download code [here](/assets/Nguyen_Lakota_AOSC111_C204_FinalProject_Climate_Simulation_Failures.ipynb).
 
 * To get data for your project, you could:
   * use **your own data** from a separate research activity
