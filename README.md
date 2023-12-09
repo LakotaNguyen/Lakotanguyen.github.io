@@ -8,3 +8,5 @@ Read/download report pdf [here](/assets/Nguyen_Lakota_FinalReport.pdf).\
 Read/download code [here](/assets/Nguyen_Lakota_AOSC111_C204_FinalProject_Climate_Simulation_Failures.ipynb).\
 Link to dataset [here](https://doi.org/10.24432/C5HG71).
 
+**PLEASE NOTE**\
+The figures and tables may be blurry in the pdf report. Please see the folder titled "" to get clear pdfs of the figures and tables.
